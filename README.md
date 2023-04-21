@@ -30,7 +30,7 @@ You can check out all our WIP and backlog items in the Issues tab. Basically, ev
 
 ### I want to suggest a design solution!
 
-Sweet, go ahead and create an issue! Please make sure to include the following information:
+Sweet, go ahead and great an issue! Please make sure to include the following information:
 - Problem statement — what is the problem you are trying to solve? Is it linked to any insights? 
 - Hypothesis — what do you think can help solve this problem?
 - Impact & success metrics — how are you going to know that you have in fact solved it successfully?
@@ -55,7 +55,7 @@ Join our Discord!
 | Profile | Superpower | 
 |---|---|
 |<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/sirkotsky?label=Kristian&style=social">|Research, strategy|
-|<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/imwiththou?label=Steve&style=social">|Design systems|
+|<img alt="Mastodon Follow" src="https://img.shields.io/mastodon/follow/109753812118938950?domain=https%3A%2F%2Fc.im&label=Steve&style=social">|Design systems|
 
 ## <a id="research">Research</a>
 We strive to run research continuously, which gives us enough insights into what the users think, but also allowing you as a designer to always have something to contribute. 
@@ -72,11 +72,6 @@ Make sure to include the objectives of your research and indicate the timeline.
 ### Research templates
 - [User survey template](templates/user_survey.md)
 - [Stakeholder interview template](templates/stakeholder_interview.md)
-
-### Sample materials (inspiration)
-- [Market analysis template](https://images.ctfassets.net/mazyb2z3tcjk/56qa3zYPJKuVhZXyg3GBev/95a5effdf7f767f58add8d210ebbacb2/Frame_4611.png)
-- [Accessibility audit](https://www.qed42.com/sites/default/files/inline-images/audit%20table.png)
-- [Heuristic evaluation sheet](https://miro.medium.com/v2/resize:fit:1400/1*zMe6wTmMXnI4XK8S6N28UQ.png)
 
 ## <a id="insights">Insights</a>
 
