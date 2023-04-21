@@ -1,9 +1,9 @@
 # User survey template
 
-- Estimated completion time: 15 min
-- Minimal participation recommended: 50+ people
-- Objectives: understand what the users want in a structured and organised manner, prioritise the features that are not only upvoted by the active minority, but have a need grounded in user's jobs to be done.
-- Format: Formbricks / Google Forms
+- ⏳ **Estimated completion time**: 15 min
+- 🙂 **Minimal participation recommended**: 50+ people
+- 💡 **Objectives**: understand what the users want in a structured and organised manner, prioritise the features that are not only upvoted by the active minority, but have a need grounded in user's jobs to be done.
+- 📃 **Format**: Formbricks / Google Forms
 
 ## Introduction
 Hi, and thank you for participating in this study!
