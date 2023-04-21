@@ -58,6 +58,16 @@ Join our Discord!
 |<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/imwiththou?label=Steve&style=social">|Design systems|
 
 ## <a id="research">Research</a>
+We strive to run research continuously, which gives us enough insights into what the users think, but also allowing you as a designer to always have something to contribute. 
+
+If you see that any of the insights are more than 2 months old, feel free to open a new issue and contribute:
+- Market analysis;
+- UX Audit;
+- Stakeholders and users survey/interview;
+- Usability testing;
+- Any other relevant research.
+
+Make sure to include the objectives of your research and indicate the timeline.
 
 ### Research templates
 - [User survey template](templates/user_survey.md)
