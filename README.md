@@ -73,6 +73,11 @@ Make sure to include the objectives of your research and indicate the timeline.
 - [User survey template](templates/user_survey.md)
 - [Stakeholder interview template](templates/stakeholder_interview.md)
 
+### Sample materials (inspiration)
+- [Market analysis template](https://images.ctfassets.net/mazyb2z3tcjk/56qa3zYPJKuVhZXyg3GBev/95a5effdf7f767f58add8d210ebbacb2/Frame_4611.png)
+- [Accessibility audit](https://www.qed42.com/sites/default/files/inline-images/audit%20table.png)
+- [Heuristic evaluation sheet](https://miro.medium.com/v2/resize:fit:1400/1*zMe6wTmMXnI4XK8S6N28UQ.png)
+
 ## <a id="insights">Insights</a>
 
 ### Vision alignment
