@@ -29,6 +29,9 @@ Got any questions? Join our Discord!
 
 ## <a id="research">Research</a>
 
+### Research templates
+- [User survey template](https://github.com/sirkotsky/formbricks_design/tree/main/templates)
+
 ## <a id="insights">Insights</a>
 
 ## <a id="ds">Design system</a>
