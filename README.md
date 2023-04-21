@@ -28,7 +28,26 @@ You can check out all our WIP and backlog items in the Issues tab. Basically, ev
 
 **Unassigned** items are free for a grab: if you see that no one is currently assigned to a feature, feel free to assign it to yourself or ask someone to assign it to you.
 
-Got any questions? Join our Discord!
+### I want to suggest a design solution!
+
+Sweet, go ahead and great an issue! Please make sure to include the following information:
+- Problem statement — what is the problem you are trying to solve? Is it linked to any insights? 
+- Hypothesis — what do you think can help solve this problem?
+- Impact & success metrics — how are you going to know that you have in fact solved it successfully?
+- Dependencies — is there anything that need to happen before you can start working on solving this problem?
+- Output — what is the final output of your work? 
+- Timeline: when are you expecting to finish the job by? 
+
+It's important to include all of the above in every design job: without it, we will be distracted by enhancements that have no impact on the product or the users, and waste the time of our engineering contributors. Also, this will look gorgeous in your portfolio if your project will include all these things, you know 😉
+
+### I don't know how to use GitHub!
+You don't have to. Just log in, find an issue that you want to solve, and comment something like: "I'd like to pick it up!", and other team members will be glad to help you.
+
+Aslo, new designers and fresh contributors will have much to learn while working with more senior colleagues, so it's a great chance for you to pick some new things up. Be sure you can deliver!
+
+### Still got questions?
+
+Join our Discord!
 
 <a href="https://formbricks.com/discord"><img src="https://img.shields.io/discord/979077669410979880?label=Discord&logo=discord&logoColor=%23fff" alt="Join Formbricks Discord"></a> 
 
