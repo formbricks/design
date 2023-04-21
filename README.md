@@ -30,7 +30,7 @@ You can check out all our WIP and backlog items in the Issues tab. Basically, ev
 
 ### I want to suggest a design solution!
 
-Sweet, go ahead and great an issue! Please make sure to include the following information:
+Sweet, go ahead and creat an issue! Please make sure to include the following information:
 - Problem statement — what is the problem you are trying to solve? Is it linked to any insights? 
 - Hypothesis — what do you think can help solve this problem?
 - Impact & success metrics — how are you going to know that you have in fact solved it successfully?
