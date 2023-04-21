@@ -55,6 +55,7 @@ Join our Discord!
 | Profile | Superpower | 
 |---|---|
 |<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/sirkotsky?label=Kristian&style=social">|Research, strategy|
+|<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/imwiththou?label=Steve&style=social">|Design systems|
 
 ## <a id="research">Research</a>
 
