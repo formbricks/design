@@ -55,7 +55,7 @@ Join our Discord!
 | Profile | Superpower | 
 |---|---|
 |<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/sirkotsky?label=Kristian&style=social">|Research, strategy|
-|<img alt="Mastodon Follow" src="https://img.shields.io/mastodon/follow/109753812118938950?domain=https%3A%2F%2Fc.im&label=Steve&style=social">|Design systems|
+|<img alt="Mastodon Follow" src="https://img.shields.io/mastodon/follow/109753812118938950?domain=https%3A%2F%2Ffe.c.im&label=Steve&style=social">|Design systems|
 
 ## <a id="research">Research</a>
 We strive to run research continuously, which gives us enough insights into what the users think, but also allowing you as a designer to always have something to contribute. 
