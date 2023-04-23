@@ -9,7 +9,8 @@ Welcome to the [Formbricks](https://github.com/formbricks/formbricks) Design Tea
 - 📃 [Research plan](#research) — how we run UX Research;
 - 💡 [Insights library](#insights) — our library of insights: customer interviews, feedback, surveys, etc.
 - ✍️ [Design system](#ds) — explore our design system and you can contribute to it;
-- 🎨 [Working files](#figma) — where our wireframes live. 
+- 🎨 [Working files](#design) — where our wireframes live. 
+- 🗓️ [Rituals](#rituals) — our rituals.
 
 ## <a id="about">What is Formbricks</a>
 [Formbricks](https://github.com/formbricks/formbricks) is the Open Source Survey & Experience Management solution for fast growing companies.
@@ -44,6 +45,11 @@ It's important to include all of the above in every design job: without it, we w
 You don't have to. Just log in, find an issue that you want to solve, and comment something like: "I'd like to pick it up!", and other team members will be glad to help you.
 
 Aslo, new designers and fresh contributors will have much to learn while working with more senior colleagues, so it's a great chance for you to pick some new things up. Be sure you can deliver!
+
+### I've never heard about Penpot!
+It's very similar to Figma, so as long as you can use Figma well, you'll be fine. We're using Penpot because it is open source and free, and Figma's free plan is, unfortunately, quite limiting. We might still use Figma occasionally (FigJams, for instance).
+
+You can learn more about Penpot [here](https://penpot.app/). 
 
 ### Still got questions?
 
@@ -85,7 +91,12 @@ Make sure to include the objectives of your research and indicate the timeline.
 - [UX Audit FigJam](https://www.figma.com/file/U97LsxCpWtb8LycFx7SK8f/Journey-Audit?node-id=0%3A1&t=G8TFxL8erY3nsVc4-1)
 
 ## <a id="ds">Design system</a>
-🚧 This section is under construction
+Once you have an issue assigned, we will add you to our Penpot file. 
 
-## <a id="figma">Working files</a>
-🚧 This section is under construction
+- 🚧 [Foundations](https://design.penpot.app/#/view/0656f724-90d3-81c2-8002-5f3394ebaf8c?page-id=0656f724-90d3-81c2-8002-5f3394ebaf8d&section=interactions&index=0&share-id=cdbb0844-1a10-813c-8002-66b2a6015724)
+
+## <a id="design">Working files</a>
+Once you have an issue assigned, we will add you to our Penpot file. 
+
+## <a id="rituals">Our rituals</a>
+🚧 We are in the process of building a team. We might have to plan when and how we meet, how we prioritise deliveries, and how we call the shots as a team.
