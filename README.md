@@ -85,7 +85,7 @@ Make sure to include the objectives of your research and indicate the timeline.
 - Stakeholder surveys: [🗓️ 19 Apr 2023](/insights/19042023_stakeholders_survey.md)
 
 ### User insights
-🚧 This section is under construction
+- User research: [🗓️ 23 Apr 2023](/insights/23042023_users_survey.md)
 
 ### UX audit
 - [UX Audit FigJam](https://www.figma.com/file/U97LsxCpWtb8LycFx7SK8f/Journey-Audit?node-id=0%3A1&t=G8TFxL8erY3nsVc4-1)
