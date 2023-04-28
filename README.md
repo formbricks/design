@@ -1,6 +1,7 @@
 # Formbricks Design Repository
 
-Welcome to the [Formbricks](https://github.com/formbricks/formbricks) Design Team Repository. Here we keep track of our activities, share templates and insights, (self)assign tasks, and welcome new contributors. 
+## Welcome 🤗
+We open source the design process to involve our community in the whole process of building Formbricks. Good design is the foundation of every good product and by getting your insights and collaboration onboard, we hope to build a better, more inclusive and accessible product.
 
 ## Index
 - ❓ [What is Formbricks](#about) — learn about Formbricks;
@@ -60,8 +61,8 @@ Join our Discord!
 ## <a id="team">Team</a>
 | Profile | Superpower | 
 |---|---|
-|<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/sirkotsky?label=Kristian&style=social">|Research, strategy|
-|<img alt="Mastodon Follow" src="https://img.shields.io/mastodon/follow/109753812118938950?domain=https%3A%2F%2Ffe.c.im&label=Steve&style=social">|Design systems|
+|<img alt="Kristian (follow on Twitter)" src="https://img.shields.io/twitter/follow/sirkotsky?label=Kristian&style=social">|Research, strategy|
+|<img alt="Steve (follow on Mastodon)" src="https://img.shields.io/mastodon/follow/109753812118938950?domain=https%3A%2F%2Ffe.c.im&label=Steve&style=social">|Design systems|
 
 ## <a id="research">Research</a>
 We strive to run research continuously, which gives us enough insights into what the users think, but also allowing you as a designer to always have something to contribute. 
