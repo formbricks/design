@@ -1,12 +1,13 @@
 # Formbricks Design Repository
 
-## Welcome 🤗
+Welcome 🤗
+
 We open source the design process to involve our community in the whole process of building Formbricks. Good design is the foundation of every good product and by getting your insights and collaboration onboard, we hope to build a better, more inclusive and accessible product.
 
 ## Index
 - ❓ [What is Formbricks](#about) — learn about Formbricks;
-- 🙃 [Team](#team) — active contributors;
 - 👉 [Getting started](#getting-started) — join the team and contribute;
+- 🙃 [Team](#team) — active contributors;
 - 📃 [Research plan](#research) — how we run UX Research;
 - 💡 [Insights library](#insights) — our library of insights: customer interviews, feedback, surveys, etc.
 - ✍️ [Design system](#ds) — explore our design system and you can contribute to it;
