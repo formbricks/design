@@ -18,7 +18,7 @@ How might we increase the adoption of Formbricks by personalising the user's exp
 - 👨‍💼 **Product Owner**: ![Johannes](https://img.shields.io/github/followers/jobenjada?label=Johannes&style=social)
 - 🗓️ **Timeline**: 25 April – 1 May 2023
 
-### Successs metrics
+### Success metrics
 - Number of activated users (users who create at least one survey);
 - Granular data on user's objectives and occupations;
 
