@@ -10,6 +10,7 @@ We open source the design process to involve our community in the whole process 
 - 🙃 [Team](#team) — active contributors;
 - 📃 [Research plan](#research) — how we run UX Research;
 - 💡 [Insights library](#insights) — our library of insights: customer interviews, feedback, surveys, etc.
+- 🔥 [Case Studies](#casestudies) — things we have successfully delivered;
 - ✍️ [Design system](#ds) — explore our design system and you can contribute to it;
 - 🎨 [Working files](#design) — where our wireframes live. 
 - 🗓️ [Rituals](#rituals) — our rituals.
@@ -91,6 +92,9 @@ Make sure to include the objectives of your research and indicate the timeline.
 
 ### UX audit
 - UX Audit: [🗓️ 17-20 Apr 2023](/insights/20042023_ux_audit.md)
+
+## <a id="casestudies">Case Studies</a>
+- [Improved Onboarding Experience](https://github.com/formbricks/design/blob/main/case_studies/30042023_onboarding.md)
 
 ## <a id="ds">Design system</a>
 Once you have an issue assigned, we will add you to our Penpot file. 
