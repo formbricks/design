@@ -95,6 +95,7 @@ Make sure to include the objectives of your research and indicate the timeline.
 
 ## <a id="casestudies">Case Studies</a>
 - [Improved Onboarding Experience](https://github.com/formbricks/design/blob/main/case_studies/30042023_onboarding.md)
+- [Improved Settings Page (former Audience)](https://github.com/formbricks/design/blob/main/case_studies/28052023_settings.md)
 
 ## <a id="ds">Design system</a>
 Once you have an issue assigned, we will add you to our Penpot file. 
