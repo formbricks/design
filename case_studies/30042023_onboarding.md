@@ -5,9 +5,12 @@
 - 👨‍🎨 **Designer**: ![Kristian](https://img.shields.io/github/followers/sirkotsky?label=Kristian&style=social)
 - 👨‍💼 **Product Owner**: ![Johannes](https://img.shields.io/github/followers/jobenjada?label=Johannes&style=social)
 - 🗓️ **Timeline**: 25 April – 1 May 2023
-
+- 
 ## Overview
 Onboarding flow is designed to help collect and segment user's profile information by occupation and primary objectives, personalise user's experience, and increase user activation.
+
+### Impact
+- 🎉 **x2 user activation rate in 1 month** 
 
 <img width="100%" alt="SFormbricks Onboarding Design" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjNmM2ZjOTcwMjg2MTM5YmI4Y2I4YzI1NmFkNDgxZGVjYTRhNTM5YyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/OQOwGP1E4FscN4XHF6/giphy.gif">
 
@@ -130,6 +133,6 @@ We are making the use of the information gathered at this point and **redesignin
 💡 The primary expected impact of the Landing Page redesign is the **increase in the % of users who sign up & create surveys**. The hypothesis is, a quick overview of available surveys will entice more users to start creating a survey. Some level of personalisation, on top of that, should entice the user even more by **prioritising surveys that are relevant** for the user (matching their objectives & occupation).
 
 ## Next steps & impact
-- Track how we're impacting the number of activated users after 1 week, 1 month, 3 months;
+- ✅ Track how we're impacting the number of activated users after 1 week, 1 month, 3 months;
 - Measure how many people complete the questionnaire;
 - Survey the users: is the new onboarding helpful, how can we improve the onboarding experience further. 
