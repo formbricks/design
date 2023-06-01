@@ -5,7 +5,7 @@
 - 👨‍🎨 **Designer**: ![Kristian](https://img.shields.io/github/followers/sirkotsky?label=Kristian&style=social)
 - 👨‍💼 **Product Owner**: ![Johannes](https://img.shields.io/github/followers/jobenjada?label=Johannes&style=social)
 - 🗓️ **Timeline**: 25 April – 1 May 2023
-- 
+
 ## Overview
 Onboarding flow is designed to help collect and segment user's profile information by occupation and primary objectives, personalise user's experience, and increase user activation.
 
