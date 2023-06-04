@@ -63,9 +63,9 @@ Join our Discord!
 ## <a id="team">Team</a>
 | Profile | Superpower | 
 |---|---|
-|<img alt="Kristian (follow on Twitter)" src="https://img.shields.io/twitter/follow/sirkotsky?label=Kristian&style=social">|Research, strategy|
-|<img alt="Steve (follow on Mastodon)" src="https://img.shields.io/mastodon/follow/109753812118938950?domain=https%3A%2F%2Ffe.c.im&label=Steve&style=social">|Design systems|
-|[Miiklyy](https://img.shields.io/github/followers/Miiklyy?label=Miiklyy&style=social)|UX research|
+|<a href="https://twitter.com/sirkotsky"><img alt="Kristian (follow on Twitter)" src="https://img.shields.io/twitter/follow/sirkotsky?label=Kristian&style=social"></a>|Research, strategy|
+|<a href="https://c.im/@imwiththou"><img alt="Steve (follow on Mastodon)" src="https://img.shields.io/mastodon/follow/109753812118938950?domain=https%3A%2F%2Ffe.c.im&label=Steve&style=social">|Design systems|
+|<a href="https://github.com/Miiklyy"><img alt="Miiklyy (follow on GitHub)" src="https://img.shields.io/github/followers/Miiklyy?label=Miiklyy&style=social"></a>|UX research|
 
 ## <a id="research">Research</a>
 We strive to run research continuously, which gives us enough insights into what the users think, but also allowing you as a designer to always have something to contribute. 
