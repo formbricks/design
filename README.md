@@ -65,6 +65,7 @@ Join our Discord!
 |---|---|
 |<img alt="Kristian (follow on Twitter)" src="https://img.shields.io/twitter/follow/sirkotsky?label=Kristian&style=social">|Research, strategy|
 |<img alt="Steve (follow on Mastodon)" src="https://img.shields.io/mastodon/follow/109753812118938950?domain=https%3A%2F%2Ffe.c.im&label=Steve&style=social">|Design systems|
+|[Miiklyy](https://img.shields.io/github/followers/Miiklyy?label=Miiklyy&style=social)|UX research|
 
 ## <a id="research">Research</a>
 We strive to run research continuously, which gives us enough insights into what the users think, but also allowing you as a designer to always have something to contribute. 
@@ -92,6 +93,9 @@ Make sure to include the objectives of your research and indicate the timeline.
 
 ### UX audit
 - UX Audit: [🗓️ 17-20 Apr 2023](/insights/20042023_ux_audit.md)
+
+### Market research
+- Market research: [🗓️ 1 Jun 20223](https://formbricks.notion.site/Link-Survey-UX-Research-271ca89aef4a43b7851a88031d00405b)
 
 ## <a id="casestudies">Case Studies</a>
 - [Improved Onboarding Experience](https://github.com/formbricks/design/blob/main/case_studies/30042023_onboarding.md)
