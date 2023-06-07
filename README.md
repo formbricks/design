@@ -95,7 +95,7 @@ Make sure to include the objectives of your research and indicate the timeline.
 - UX Audit: [🗓️ 17-20 Apr 2023](/insights/20042023_ux_audit.md)
 
 ### Market research
-- Market research: [🗓️ 1 Jun 20223](https://formbricks.notion.site/Link-Survey-UX-Research-271ca89aef4a43b7851a88031d00405b)
+- Market research: [🗓️ 1 Jun 2023](https://formbricks.notion.site/Link-Survey-UX-Research-271ca89aef4a43b7851a88031d00405b)
 
 ## <a id="casestudies">Case Studies</a>
 - [Improved Onboarding Experience](https://github.com/formbricks/design/blob/main/case_studies/30042023_onboarding.md)
